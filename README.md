@@ -12,6 +12,6 @@ Kaggle - Steam Games Dataset (122,611 games)
 2. Casual and Indie games have the highest positive rate (77.8%)
 3. Racing and Simulation games have the lowest positive rate (73-74%)
 4. Average playtime has almost no correlation with positive rate (r = -0.01) — playtime alone doesn't determine player satisfaction
-   
+5. Games with 20+ DLCs have the highest positive rate (83%) — quality games tend to have long-term content support
 ## Tools Used
 Python / Pandas / Matplotlib
